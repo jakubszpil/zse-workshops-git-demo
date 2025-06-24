@@ -1,3 +1,3 @@
 # zse-workshops-git-demo
 TEST
-user A
+user A user B
